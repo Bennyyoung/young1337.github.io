@@ -1,0 +1,90 @@
+
+.container-fluid {
+	/*margin-left: 50px;
+	margin-right: 50px;*/
+}
+#col-5 {
+	width: 500px;
+}
+
+.hen{
+	border: 0px solid lightgrey;
+	height: 300px;
+	/*width: 250px;*/
+	padding-left: 20px;
+	margin-left: 14px;
+}
+
+#as {
+	float: right;
+	height: 340px;
+	width: 400px;
+	filter: grayscale(100%);
+}
+#img2 {
+	height: 300px;
+	width: 220px;
+	margin-left: -20px;
+	/*margin-right: -5px;*/
+}
+#img3 {
+	height: 300px;
+	width: 260px;
+	margin-left: -44px;
+	/*margin-right: -5px;*/
+	/*margin-left: -20px;*/
+}
+#jumbo-4 {
+	background-color: red;
+}
+#jumbo-5 {
+ 	width: 200px;
+}
+#img5 {
+	height: 298px;
+	/*width: 200px;*/
+}
+#img6 {
+	/*width: 500px;
+	height: 300px;*/
+}
+.jumbotron ul li a:hover {
+	background-color: grey;
+	color: white;
+}
+
+.jumbotron ul li a {
+	color: black;
+	font-weight: bold;
+	padding: -10px;
+	margin: 20px;
+}
+
+.jumbotron #name-1 {
+	/*padding: -10px;*/
+	font-size: 90px;
+	font-family: Arial;
+	display: inline-flex;
+	float: left;
+	text-align: center;
+	margin-top: -20px
+}
+
+.jumbotron #name-2 {
+	font-size: 40px;
+	float: right;
+}
+
+.jumbotron ol [class="name-2"] {
+	font-weight: bold;
+}
+
+
+
+
+
+
+.jumbotron .col-md-2  {
+	color: white;
+}
+
